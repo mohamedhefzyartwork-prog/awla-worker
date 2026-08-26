@@ -37,4 +37,3 @@ curl -X POST "https://awla-ai.mohamedhefzyartwork.workers.dev/edit"   -F 'prompt
 
 ## Security note
 This pilot build restricts browser CORS to the AWLA GitHub Pages origin, but it is not a full authentication layer. Add authenticated requests and rate limits before public launch.
-Auto deploy test
