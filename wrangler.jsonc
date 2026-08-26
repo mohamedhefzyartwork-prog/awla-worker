@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "awla-ai",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-26",
+  "ai": {
+    "binding": "AI"
+  },
+  "vars": {
+    "ALLOWED_ORIGIN": "https://mohamedhefzyartwork-prog.github.io"
+  }
+}
